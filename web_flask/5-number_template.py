@@ -1,4 +1,3 @@
-te.py
 #!/usr/bin/python3
 """Flask web application starter"""
 from flask import Flask
